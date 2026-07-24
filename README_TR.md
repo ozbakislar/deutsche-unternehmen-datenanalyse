@@ -1,4 +1,4 @@
-# 📖 **Dil:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
+# 📖 **Dil:** [English](README_EN.md) | [Deutsch](README.md) | **Türkçe**
 
 # 📊 Top 12 Alman Şirketi – Finansal Analiz
 
