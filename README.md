@@ -1,6 +1,6 @@
 # 📖 **Sprachen:** [English](README_EN.md) | **Deutsch** | [Türkçe](README_TR.md)
 
-# 📊 Top 12 Deutsche Unternehmen – Finanzanalyse
+# 📊 Deutsche Unternehmen – Finanzanalyse
 
 Explorative Datenanalyse (EDA) der finanziellen Performance von Deutschlands 12 größten Unternehmen zwischen 2017-2024
 

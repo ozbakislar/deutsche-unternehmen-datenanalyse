@@ -1,6 +1,6 @@
 # 📖 **Language:** **English** | [Deutsch](README.md) | [Türkçe](README_TR.md)
 
-# 📊 Top 12 German Companies – Financial Analysis
+# 📊 German Companies – Financial Analysis
 
 Exploratory Data Analysis (EDA) of financial performance of Germany's 12 largest companies between 2017-2024
 

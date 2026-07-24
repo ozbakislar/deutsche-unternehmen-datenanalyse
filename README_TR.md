@@ -1,6 +1,6 @@
 # 📖 **Dil:** [English](README_EN.md) | [Deutsch](README.md) | **Türkçe**
 
-# 📊 Top 12 Alman Şirketi – Finansal Analiz
+# 📊 Alman Şirketleri – Finansal Analiz
 
 Almanya'nın en büyük 12 şirketinin 2017-2024 dönemi finansal performansının Keşifsel Veri Analizi (EDA)
 
